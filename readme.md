@@ -1,4 +1,4 @@
-## Descriptions
+## Description
 
 Kode ini akan memuat data, melakukan preprocessing, membagi data menjadi training dan testing, melatih model Random Forest, dan mengevaluasi performanya.
 
