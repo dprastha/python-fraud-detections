@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score
 
 # Load the data
-file_path = 'path/to/creditcard_sampledata.csv'  # Ganti dengan path ke file data Anda
+file_path = './creditcard_sampledata.csv'  # Ganti dengan path ke file data Anda
 data = pd.read_csv(file_path)
 
 # Drop the 'Unnamed: 0' column
